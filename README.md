@@ -1,1 +1,3 @@
 # LEARNWITHANDELA
+This is a platform to commit the things we have learnt, be it javascript, css or html... 
+feel free to commit anything you know, and to critic any work uploaded. 
